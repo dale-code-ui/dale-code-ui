@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+- 🌱 I’m currently learning ...intro to cs 
+- 💬 Ask me about ...anything 
+- 📫 How to reach me: ... phone number : 4155160126
+- ⚡ Fun fact: ...i know how to change a tire .
 <!--
 **dale-code-ui/dale-code-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
