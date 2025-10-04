@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is David and a cs student at ccsf .
 
 - 🌱 I’m currently learning ...intro to cs 
 - 💬 Ask me about ...anything 
